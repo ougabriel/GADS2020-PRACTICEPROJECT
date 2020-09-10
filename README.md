@@ -1,2 +1,2 @@
 # GADS2020-PRACTICEPROJECT
-This is project was done by Okom U. Gabriel for GADS2020
+This project was done by Okom U. Gabriel for GADS2020
